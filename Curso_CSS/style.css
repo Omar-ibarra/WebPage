@@ -1,0 +1,8 @@
+.contact-form__h2 {
+  background-color: #555;  /*Color de fondo*/
+  display: inline-block;     /* Cambia de ser un elemento de bloque a uno de linea*/
+  padding: 100px 20px; /*Es la distacia entre el texto y el borde de la caja, se puede definir solo como "padding: valor;" y se asignará */
+                 /*el mismo padig para todos los lados o se puede usar de la siguiente forma "padding: valor1 valor2"*/
+                 /*de esta forma valor1 es el valor de pading de */ 
+}
+
